@@ -133,3 +133,21 @@ p {
 #s14 { grid-area: 4 / 2 / 5 / 3; }
 #s15 { grid-area: 4 / 3 / 5 / 4; }
 #s16 { grid-area: 4 / 4 / 5 / 5; } 
+
+.cat {
+  width: 10vw;
+  height: 20vh;
+  background-image: url("../assets/dancing-cat-33.webp");
+  position: absolute;
+  background-size: cover;
+}
+
+#cat1 {
+  top: 40vh;
+  left: 10vw;
+}
+
+#cat2 {
+  top: 40vh;
+  right: 10vw;
+}
